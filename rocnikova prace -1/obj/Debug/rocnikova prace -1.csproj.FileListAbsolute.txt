@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\bin\Debug\rocnikova prace -1.exe.config
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\bin\Debug\rocnikova prace -1.exe
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\bin\Debug\rocnikova prace -1.pdb
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova prace -1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova_prace__1.Form1.resources
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova_prace__1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova prace -1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova prace -1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova prace -1.exe
+C:\Users\Administrator\source\repos\rocnikova prace -1\rocnikova prace -1\obj\Debug\rocnikova prace -1.pdb
